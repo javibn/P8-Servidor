@@ -5,7 +5,10 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturaWs", "FacturaWs\FacturaWs.csproj", "{198D8877-FB28-481C-8910-F58ACF8EB277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GesFactura", "GesFactura\GesFactura.csproj", "{80119528-4E79-4C02-AC74-C1B4BC28B520}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GesFactura", "GesFactura\GesFactura.csproj", "{FCD418DE-6B42-4577-BB6E-271AB6224EFA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{198D8877-FB28-481C-8910-F58ACF8EB277} = {198D8877-FB28-481C-8910-F58ACF8EB277}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +20,10 @@ Global
 		{198D8877-FB28-481C-8910-F58ACF8EB277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{198D8877-FB28-481C-8910-F58ACF8EB277}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{198D8877-FB28-481C-8910-F58ACF8EB277}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80119528-4E79-4C02-AC74-C1B4BC28B520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80119528-4E79-4C02-AC74-C1B4BC28B520}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80119528-4E79-4C02-AC74-C1B4BC28B520}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80119528-4E79-4C02-AC74-C1B4BC28B520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD418DE-6B42-4577-BB6E-271AB6224EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD418DE-6B42-4577-BB6E-271AB6224EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD418DE-6B42-4577-BB6E-271AB6224EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD418DE-6B42-4577-BB6E-271AB6224EFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
