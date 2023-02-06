@@ -1,0 +1,10 @@
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\bin\GesFactura.dll.config
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\bin\GesFactura.dll
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\bin\GesFactura.pdb
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\obj\Debug\GesFactura.csproj.AssemblyReference.cache
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\obj\Debug\GesFactura.csproj.CoreCompileInputs.cache
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\obj\Debug\GesFactura.csproj.CopyComplete
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\obj\Debug\GesFactura.dll
+C:\Users\javbernav\Desktop\P8-Servidor\Factura\GesFactura\obj\Debug\GesFactura.pdb
